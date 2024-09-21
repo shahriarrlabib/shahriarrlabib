@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahriarrlabib
 - 👀 I’m interested in video games, tech, books and so on!
-- 🌱 I’m currently learning programming and video editing.
+- 🌱 I’m currently learning html and video editing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
